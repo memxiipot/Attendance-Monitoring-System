@@ -1,0 +1,4 @@
+C:\Users\Marie\Desktop\AttendanceMonitoringSystem\AttendanceMonitoringSystem\bin\AttendanceMonitoringSystem.dll
+C:\Users\Marie\Desktop\AttendanceMonitoringSystem\AttendanceMonitoringSystem\bin\AttendanceMonitoringSystem.pdb
+C:\Users\Marie\Desktop\AttendanceMonitoringSystem\AttendanceMonitoringSystem\obj\Debug\AttendanceMonitoringSystem.dll
+C:\Users\Marie\Desktop\AttendanceMonitoringSystem\AttendanceMonitoringSystem\obj\Debug\AttendanceMonitoringSystem.pdb
